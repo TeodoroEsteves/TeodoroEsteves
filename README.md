@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Teodoro Esteves</h1>
 
-<!--
-**TeodoroEsteves/TeodoroEsteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Oi! Seja Bem Vindo ao meu GitHub!</h3>
+<p>Meu nome é Teodoro Esteves de Mendonça, tenho 22 anos e estou em formação para Bacharelado em Sistemas de Informação.</p>
+<p>Hoje estou em constante apredizado na programação. </p>
 
-Here are some ideas to get you started:
+📚- Entusiasta de C#, HTML, CSS e MySQL.<br/>
+📈- Sempre buscando novos conhecimentos.<br/>
+☎ - Contate-me - https://www.linkedin.com/in/teodoro-esteves-a343471a4/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeodoroEsteves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroEsteves&layout=compact&langs_count=7&theme=dark&show_icons=true"/>
+</div>
